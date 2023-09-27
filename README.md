@@ -13,3 +13,5 @@ Weslley Carlos
 - (https://scratch.mit.edu/projects/883236068/editor/)
 - (https://scratch.mit.edu/projects/881964824/editor/)
 - [regra de 3](https://scratch.mit.edu/projects/882638087/editor/)
+
+![certificado](https://github.com/weslleypiloto46/Scratch/blob/main/assets/icons/certificado.jpg)
